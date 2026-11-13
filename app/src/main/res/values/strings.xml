@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Yukisan Asisten</string>
+    <string name="a11y_description">Yukisan Asisten membantu scroll video lewat tombol volume dan sensor dekat.</string>
+</resources>
